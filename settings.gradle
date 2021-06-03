@@ -1,0 +1,2 @@
+rootProject.name = "Swipable View"
+include ':app'
